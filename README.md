@@ -7,7 +7,7 @@ The following projects were all coded and tested using the Domino Data Lab platf
 
 [BetterBet: A New Joint-Analysis and Comparison Tool for Stock Value] 
 
-* Uses fundamental and technical analysis to compare two firms' competitive strategy, financial health, potential for growth, and valuation in detail. I created a data parser, a reader to download 10-Q and 10-K SEC filings, a script to attach specific company performance indicators for trend analysis, and a pandas DataFrame to hold the data.
+* Uses fundamental & technical analysis to compare two firms' competitive strategy, financial health, potential for growth, and valuation in detail. I created a data parser, a reader to download 10-Q and 10-K SEC filings, a script to attach specific company performance indicators for trend analysis, and a pandas DataFrame to hold the data.
 
 * Developed risk-analysis models with the aid of Monte-Carlo simulations, and put visualizations into practice with the aid of matplotlib and Seaborn.
 
